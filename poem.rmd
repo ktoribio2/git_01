@@ -16,6 +16,12 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+A boat beneath a sunny sky,   
+Lingering onward dreamily   
+In an evening of July —   
+Children three that nestle near,    
+Eager eye and willing ear,    
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
@@ -44,3 +50,28 @@ To come and spoil the fun.
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+In fields of golden sunsets gleam,    
+Where dreams and whispers gently stream,    
+I'll weave a tale of love's pure light,   
+With words that dance and take their flight.       
+
+On shores of azure, waves embrace,    
+Their frothy kisses, a timeless chase,    
+As seagulls soar on windswept grace,    
+Love's symphony, in every space.    
+
+Through emerald forests, secrets lie,   
+Whispered by leaves 'neath a twilight sky,    
+Where ancient trees in wisdom sway,       
+Nature's lullaby, night and day.    
+
+In bustling streets of city's thrum,    
+The heartbeat of life, a vibrant drum,    
+A tapestry of souls unite,    
+Weaving stories, day and night.    
+
+In whispered echoes of distant lands,   
+Where sand cascades through timeless sands,   
+Lost treasures beckon, mysteries unfold,    
+Adventure's tale, both brave and bold.    
