@@ -24,3 +24,13 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+In twilight's embrace, whispers of the night,     
+A tapestry woven with stars shining bright.     
+A gentle zephyr dances through the trees,      
+Carrying secrets on its elusive breeze.     
+
+Silent moonlight weaves dreams in slumber's keep,     
+As souls find solace in the realms of sleep.      
+A symphony of silence, tranquil and deep,     
+Nature's lullaby, a melody to keep.     
